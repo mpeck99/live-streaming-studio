@@ -1,1 +1,1 @@
-# live-streaming-studio
+# Web-based live-streaming studio
